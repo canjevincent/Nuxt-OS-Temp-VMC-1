@@ -2,7 +2,7 @@
 
 A clean and minimal single landing page built with Nuxt.js, designed to be easily customizable and shared as an open-source template for developers. Perfect for quick project setups or as a starting point for creating modern, responsive landing pages. By VMC.
 
-![Alt Text]([https://raw.githubusercontent.com/username/repository-name/main/example.png](https://github.com/canjevincent/Nuxt-OS-Temp-VMC-1/blob/master/nuxt_os_temp_1.png))
+![Alt Text](https://github.com/canjevincent/Nuxt-OS-Temp-VMC-1/blob/master/nuxt_os_temp_1.png)
 
 # Nuxt Minimal Starter
 
